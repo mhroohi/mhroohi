@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-h-malekian-94056773/](https://www.linkedin.com/in/mohammad-hossein-roohi-39a85259/)) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hossein-roohi-39a85259/)) 
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)]([https://pytopia.ai](https://mhroohi.github.io/portfolio/))
 
 ### 🖥 Skills
