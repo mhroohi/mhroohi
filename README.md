@@ -11,16 +11,16 @@
   
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) 
-![Bootstrap](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) 
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=Kubernetes&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Scikit](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=for-the-badge&logo=Scikit-Learn&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=Pandas&logoColor=white) 
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=for-the-badge&logo=Numpy&logoColor=white) 
 
 
 
