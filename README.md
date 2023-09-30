@@ -8,6 +8,7 @@
 - Machine Learning
 - Statistical Analysis
 - Anomaly detection
+- Control System Design
   
 ### ⚙️ Tech Stack
 
