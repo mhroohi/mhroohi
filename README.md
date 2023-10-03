@@ -8,7 +8,7 @@ A Data Scientist uncovering insights from complex datasets and driving decisions
 
 - Machine Learning
 - Statistical Analysis
-- Anomaly detection
+- Anomaly Detection
 - Control System Design
   
 ### ⚙️ Tech Stack
