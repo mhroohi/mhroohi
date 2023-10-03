@@ -5,7 +5,6 @@ A Data Scientist uncovering insights from complex datasets and driving decisions
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://mhroohi.github.io/portfolio/)
 
 ### 🖥 Skills
-
 - Machine Learning
 - Statistical Analysis
 - Anomaly Detection
