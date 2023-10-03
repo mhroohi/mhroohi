@@ -12,6 +12,15 @@ A Data Scientist uncovering insights from complex datasets and driving decisions
 - Control System Design
   
 ### ⚙️ Tech Stack
+- ![Bootstrap](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bootstrap]() ![Bootstrap]()
+- ![Bootstrap]() ![Bootstrap]() ![Bootstrap]()
+- ![Bootstrap]() ![Bootstrap]() ![Bootstrap]()
+- ![Bootstrap]() ![Bootstrap]() ![Bootstrap]()
+- ![Bootstrap]() ![Bootstrap]() ![Bootstrap]()
+- ![Bootstrap]() ![Bootstrap]() ![Bootstrap]()
+- ![Bootstrap]() ![Bootstrap]() ![Bootstrap]()
+
+
  - ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
    ![Bootstrap](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=cplusplus&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) 
