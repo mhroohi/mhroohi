@@ -1,7 +1,7 @@
 ### Hi there I'm Hossein👋
 A Data Scientist uncovering insights from complex datasets and driving decisions through statistical modeling, machine learning, and data visualization. Welcome!
 
-[![Website Badge](https://img.shields.io/badge/Website-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://mhroohi.github.io/portfolio/)
+[![Website Badge](https://img.shields.io/badge/Website-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=red)](https://mhroohi.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohammad-hossein-roohi-39a85259/) 
 [![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=-OMiZvUAAAAJ&hl=en)
 
