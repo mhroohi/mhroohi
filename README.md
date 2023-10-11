@@ -6,7 +6,7 @@ A Data Scientist uncovering insights from complex datasets and driving decisions
 [![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=-OMiZvUAAAAJ&hl=en)
 
 ### 🖥 Skills
-- Machine Learning
+- Machine Learning / MLOps
 - Statistical Analysis
 - Anomaly Detection
 - Control System Design
