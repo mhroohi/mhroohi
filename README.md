@@ -8,6 +8,7 @@ A Data Scientist uncovering insights from complex datasets and driving decisions
 ### 🖥 Skills
 - Machine Learning / MLOps
 - Statistical Analysis
+- Causality analysis
 - Anomaly Detection
 - Control System Design
   
