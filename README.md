@@ -1,16 +1,18 @@
 ### Hi there I'm Hossein👋
-A Data Scientist uncovering insights from complex datasets and driving decisions through statistical modeling, machine learning, and data visualization. Welcome!
+Senior Data Scientist and Software Developer passionate about turning complex data into actionable insights. I work across machine learning, statistical modeling, and software engineering to build practical solutions that support better decisions.
 
 [![Website Badge](https://img.shields.io/badge/Website-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://mhroohi.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohammad-hossein-roohi-39a85259/) 
 [![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=-OMiZvUAAAAJ&hl=en)
 
-### 🖥 Skills
-- Machine Learning / MLOps
-- Statistical Analysis
-- Causality analysis
-- Anomaly Detection
-- Control System Design
+### 🖥️ Core Skills
+- Machine Learning & MLOps
+- Statistical Modeling & Data Analysis
+- Causal Inference & Analysis
+- Anomaly Detection & Predictive Analytics
+- Control Systems Design & Optimization
+- Data-Driven Decision Making
+- AI-Driven Software Development
   
 ### ⚙️ Tech Stack
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
